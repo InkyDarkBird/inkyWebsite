@@ -10,10 +10,10 @@
 
 .text {
   font-family: Inter, serif;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.6;
   color: #333;
   background-color: #fff;
   margin: 10px;
-  padding: 1rem;
+  padding: 0;
 }
