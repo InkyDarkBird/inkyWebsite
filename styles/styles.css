@@ -4,6 +4,14 @@ body {
   background-size: cover;
 }
 
+a:link {
+  color: aqua;
+}
+
+a:visited {
+  color: #FFCCCB;
+}
+
 .title {
   font-family: OCR A Std, monospace;
   font-size: 30px;
